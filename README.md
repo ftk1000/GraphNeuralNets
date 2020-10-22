@@ -7,9 +7,9 @@ depository of GNN study materials
 
 
 [T.Kipf repo of TF & PT code of GCN](https://github.com/tkipf)<br>
-  -- https://github.com/tkipf/keras-gcn  DN of graphs in Keras
-  -- https://github.com/tkipf/gcn   This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper
-  -- https://github.com/tkipf/pygcn PyTorch implementation of Graph Convolutional Networks (GCNs) for semi-supervised classification
+- https://github.com/tkipf/keras-gcn  DN of graphs in Keras
+- https://github.com/tkipf/gcn   This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper
+- https://github.com/tkipf/pygcn PyTorch implementation of Graph Convolutional Networks (GCNs) for semi-supervised classification
   
 []()<br>
 []()<br>
