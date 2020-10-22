@@ -3,7 +3,8 @@
 depository of GNN study materials
 
 [Paper+Code: How Powerful are Graph Neural Networks? ICLR 2019 • Keyulu Xu • Weihua Hu • Jure Leskovec • Stefanie Jegelka](https://arxiv.org/abs/1810.00826)<br>
-[GitHub code on COLAB: Graph Isomorphism Networks in Tensorflow 2.0](https://github.com/calciver/Graph-Isomorphism-Networks)<br>
+[GitHub code on COLAB: Graph Isomorphism Networks in Tensorflow 2.0](https://github.com/calciver/Graph-Isomorphism-Networks/blob/master/Tensorflow_2_0_Graph_Isomorphism_Networks_(GIN).ipynb)<br>
+
 
 
 [T.Kipf repo of TF & PT code of GCN](https://github.com/tkipf)<br>
