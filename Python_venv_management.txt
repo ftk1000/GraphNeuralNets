@@ -1,0 +1,116 @@
+COLAB ENV 2020.10.23
+
+import easydict
+import numpy as np
+from tqdm import tqdm
+import tensorflow as tf
+
+print(tf.__version__)
+print(np.__version__)
+
+2.3.0
+1.18.5
+
+# Check current py versionb
+# https://stackoverflow.com/questions/40694528/how-to-know-which-is-running-in-jupyter-notebook
+from platform import python_version
+print(python_version())
+
+3.6.9
+
+import keras
+print(keras.__version__)
+2.4.3
+
+============================================
+Installed python 3.7
+via 
+C:\Users\khafifa>conda install -c anaconda python=3.7
+
+
+C:\users\khafifa\PY_CODE> jupyter notebook
+
+
+from platform import python_version
+print(python_version())
+
+>>> 3.7.7
+
+!pip install scipy==1.4.1
+
+!pip install numpy==1.18.0
+
+
+
+
+C:\users\khafifa> conda install tensorflow
+
+===========================================================
+
+
+https://www.youtube.com/watch?v=ynDlb0n27cw
+
+
+virtualenv venv -p c:\Python3.6.0\python.exe
+
+virtualenv venv -p c:\Python3.7.0\python.exe
+
+venv\Spripts\activate.bat
+venv\Spripts\deactivate.bat
+
+================ Py locatoin on this laptop (DELL Latitute 7400)
+C:\Users\khafifa\Anaconda3\python.exe
+C:\Users\khafifa\Anaconda3\pkgs\python-3.8.3-he1778fa_2\python.exe
+
+
+==================== Install py 3.7
+C:\Users\khafifa>conda install -c anaconda python=3.7
+
+================== TF 
+
+https://www.tensorflow.org/install
+
+TensorFlow is tested and supported on the following 64-bit systems:
+
+Python 3.5–3.8
+
+# Requires the latest pip
+pip install --upgrade pip
+
+# Current stable release for CPU and GPU
+pip install tensorflow
+
+================================
+
+import pandas
+
+ImportError: Unable to import required dependencies:
+numpy:
+
+IMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!
+
+Importing the numpy C-extensions failed. This error can happen for
+many reasons, often due to issues with your setup or how NumPy was
+installed.
+
+We have compiled some common reasons and troubleshooting tips at:
+
+    https://numpy.org/devdocs/user/troubleshooting-importerror.html
+
+Please note and check the following:
+
+  * The Python version is: Python3.8 from "C:\Users\khafifa\Anaconda3\python.exe"
+  * The NumPy version is: "1.18.5"
+
+and make sure that they are the versions you expect.
+Please carefully study the documentation linked above for further help.
+
+Original error was: DLL load failed while importing _multiarray_umath: The network path was not found.
+
+
+==================
+
+conda install numpy
+
+conda activate myenv
+
