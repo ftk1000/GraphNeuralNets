@@ -1,3 +1,9 @@
+# Knowledge Graph 20
+
+[how-to-build-knowledge-graph-text-using-spacy](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)<br>
+[graph-feature-extraction-deepwalk](https://www.analyticsvidhya.com/blog/2019/11/graph-feature-extraction-deepwalk/)<br>
+
+
 # GraphNeuralNets 2020.10.22
 
 depository of GNN study materials
