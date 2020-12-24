@@ -14,6 +14,7 @@
 * [2019: Learning deformable shape correspondence](http://www.ipam.ucla.edu/abstract/?tid=15397&pcode=GLWS2)<br>
      
        Functional Correspondence in Spectral Domain
+     * [importing-data-to-google-colab-the-clean-way](https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8)<br>
      
 []()<br>
 
