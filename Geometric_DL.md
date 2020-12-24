@@ -15,7 +15,8 @@
      
        Functional Correspondence in Spectral Domain
 * [2020: Deep Matrix Factorization with Spectral Geometric Regularization, by Amit Boyarski, Sanketh Vedula, Alex Bronstein](https://arxiv.org/pdf/1911.07255.pdf)<br>
-* [COLAB CODE OF SGMC Toy Example](https://github.com/ftk1000/GraphNeuralNets/blob/main/SGMC_toy_example.ipynb)<br>     
+     * [COLAB CODE OF SGMC Toy Example](https://github.com/ftk1000/GraphNeuralNets/blob/main/SGMC_toy_example.ipynb)<br>     
+     * [synthetic_netflix.mat - Data file for the Toy Example](https://github.com/ftk1000/GraphNeuralNets/blob/main/synthetic_netflix.mat)<br>
      * [importing-data-to-google-colab-the-clean-way](https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8)<br>
      
 []()<br>
