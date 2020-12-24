@@ -9,6 +9,10 @@
       39:42 For what graphs do we need depth?
             For in computer vision NNs are deep, 100+ layers. For graphs usually - NO.
 
+[Alex Bronstein](https://bron.cs.technion.ac.il/)<br>
+* [2019: Functional Correspondence in Spectral Domain](http://www.ipam.ucla.edu/abstract/?tid=15397&pcode=GLWS2)<br>
+[]()<br>
+
         Tula, Russia 1980
         Table of Contents (powered by https://videoken.com)
         0:00:00 Speaker Introduction
