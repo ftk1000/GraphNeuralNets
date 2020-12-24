@@ -3,6 +3,8 @@
 
 [Geometric Deep Learning - Michael Bronstein - MLSS 2020, Tübingen](https://www.youtube.com/watch?v=8kTxTX0eBRA)<br>
 
+      conv filter = tri-diagonal matrix multiplication = lin comb of weighted shifts of adj matrix
+
         Tula, Russia 1980
         Table of Contents (powered by https://videoken.com)
         0:00:00 Speaker Introduction
