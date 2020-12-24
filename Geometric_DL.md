@@ -14,6 +14,8 @@
 * [2019: Learning deformable shape correspondence](http://www.ipam.ucla.edu/abstract/?tid=15397&pcode=GLWS2)<br>
      
        Functional Correspondence in Spectral Domain
+* [2020: Deep Matrix Factorization with Spectral Geometric Regularization, by Amit Boyarski, Sanketh Vedula, Alex Bronstein](https://arxiv.org/pdf/1911.07255.pdf)<br>
+* [COLAB CODE OF SGMC Toy Example](https://github.com/ftk1000/GraphNeuralNets/blob/main/SGMC_toy_example.ipynb)<br>     
      * [importing-data-to-google-colab-the-clean-way](https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8)<br>
      
 []()<br>
