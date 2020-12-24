@@ -1,7 +1,8 @@
 # Geometric DL
 2020.12.22
 
-[Geometric Deep Learning - Michael Bronstein - MLSS 2020, Tübingen](https://www.youtube.com/watch?v=8kTxTX0eBRA)<br>
+[PROFESSOR MICHAEL BRONSTEIN](https://www.imperial.ac.uk/people/m.bronstein)<br>
+* [2020:YT: Geometric Deep Learning - Michael Bronstein - MLSS 2020, Tübingen](https://www.youtube.com/watch?v=8kTxTX0eBRA)<br>
 
       conv filter = tri-diagonal matrix multiplication = lin comb of weighted shifts of adj matrix
       32:11 Graph ConvNet: Y = ReLU ( AXW )
@@ -10,7 +11,10 @@
             For in computer vision NNs are deep, 100+ layers. For graphs usually - NO.
 
 [Alex Bronstein](https://bron.cs.technion.ac.il/)<br>
-* [2019: Functional Correspondence in Spectral Domain](http://www.ipam.ucla.edu/abstract/?tid=15397&pcode=GLWS2)<br>
+* [2019: Learning deformable shape correspondence](http://www.ipam.ucla.edu/abstract/?tid=15397&pcode=GLWS2)<br>
+     
+       Functional Correspondence in Spectral Domain
+     
 []()<br>
 
         Tula, Russia 1980
