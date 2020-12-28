@@ -4,8 +4,8 @@
 [PROFESSOR MICHAEL BRONSTEIN](https://www.imperial.ac.uk/people/m.bronstein)<br>
 * [2017 Geometric deep learning: going beyond Euclidean data; M.Bronstein, J.Bruna, Yann LeCun, A.Szlam, P.Vandergheynst; arxiv.org/abs/1611.08097](https://arxiv.org/pdf/1611.08097.pdf)<br>
 
-      The purpose of this paper is to overview different examples of geometric deep learning problems and present available solutions, 
-      key difficulties, applications, and future research directions in this nascent field.
+      The purpose of this paper is to overview different examples of geometric deep learning problems and present available 
+      solutions, key difficulties, applications, and future research directions in this nascent field.
 * [2020:YT: Geometric Deep Learning - Michael Bronstein - MLSS 2020, Tübingen](https://www.youtube.com/watch?v=8kTxTX0eBRA)<br>
 
       conv filter = tri-diagonal matrix multiplication = lin comb of weighted shifts of adj matrix
