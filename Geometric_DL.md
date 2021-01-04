@@ -7,19 +7,18 @@
 
  -- This year, deep learning on graphs was crowned among the hottest topics in machine learning.
 
- - Training deep graph neural networks is hard. Besides the standard plights observed in deep neural architectures such as vanishing gradients in back-propagation and overfitting due to a large number of parameters, there are a few problems specific to graphs. One of them is over-smoothing, the phenomenon of the node features tending to converge to the same vector and become nearly indistinguishable as the result of applying multiple graph convolutional layers [1].
+ -- Training deep graph neural networks is hard. Besides the standard plights observed in deep neural architectures such as vanishing gradients in back-propagation and overfitting due to a large number of parameters, there are a few problems specific to graphs. One of them is over-smoothing, the phenomenon of the node features tending to converge to the same vector and become nearly indistinguishable as the result of applying multiple graph convolutional layers [1].
 
- - This behaviour was first observed in GCN models [2,3], which act similarly to low-pass filters.
+ -- This behaviour was first observed in GCN models [2,3], which act similarly to low-pass filters.
 
-- Another phenomenon is a bottleneck, resulting in “over-squashing” of information from exponentially many neighbours into fixed-size vectors [4].
+ -- Another phenomenon is a bottleneck, resulting in “over-squashing” of information from exponentially many neighbours into fixed-size vectors [4].
+
+ -- ... problem of depth in graph neural networks, in hope to achieve better performance and perhaps avoid embarrassment in using the term “deep learning” when referring to graph neural networks with just two layers. 
 
 
- - ... problem of depth in graph neural networks, in hope to achieve better performance and perhaps avoid embarrassment in using the term “deep learning” when referring to graph neural networks with just two layers. 
+ -- Typical approaches can be split into two families. First, regularisation techniques such as edge-wise dropout (DropEdge) [5], pairwise distance normalisation between node features (PairNorm) [6], or node-wise mean and variance normalisation (NodeNorm) [7]. Second, architectural changes including various types of residual connection such as jumping knowledge [8] or affine residual connection [9]. 
 
-
- - Typical approaches can be split into two families. First, regularisation techniques such as edge-wise dropout (DropEdge) [5], pairwise distance normalisation between node features (PairNorm) [6], or node-wise mean and variance normalisation (NodeNorm) [7]. Second, architectural changes including various types of residual connection such as jumping knowledge [8] or affine residual connection [9]. 
-
- - the use of deep architectures often results in decreased performance.
+ -- the use of deep architectures often results in decreased performance.
 
 
 
