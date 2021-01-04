@@ -5,7 +5,7 @@
 
 * [2020: Товарищ Бронштейн: Do we need deep graph neural networks?](https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59)
 
- - This year, deep learning on graphs was crowned among the hottest topics in machine learning.
+ -- This year, deep learning on graphs was crowned among the hottest topics in machine learning.
 
  - Training deep graph neural networks is hard. Besides the standard plights observed in deep neural architectures such as vanishing gradients in back-propagation and overfitting due to a large number of parameters, there are a few problems specific to graphs. One of them is over-smoothing, the phenomenon of the node features tending to converge to the same vector and become nearly indistinguishable as the result of applying multiple graph convolutional layers [1].
 
