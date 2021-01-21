@@ -17,7 +17,21 @@ depository of GNN study materials
 - https://github.com/tkipf/keras-gcn  DN of graphs in Keras
 - https://github.com/tkipf/gcn   This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper
 - https://github.com/tkipf/pygcn PyTorch implementation of Graph Convolutional Networks (GCNs) for semi-supervised classification
-  
+
+==========> Anvar Kumukov : <br>
+<a href="https://www.youtube.com/playlist?list=PLiptW-XRuYFXTlSmu4qR7dmVXe6eFelV9"> Anvar Kumukov PlayList</A> |<br>
+
+Aнвар Курмуков :   "GNN & GCN for complete beginners with examples in python"<br>
+Будет объяснено, что такое графовые нейронные сети, в частности разберем 3 популярные статьи посвященные графовым сеткам:<br>
+1. Kipf GCN https://arxiv.org/pdf/1609.02907.pdf<br>
+2. Graph SAGE https://arxiv.org/pdf/1706.02216.pdf<br>
+3. https://www.cse.wustl.edu/~ychen/public/DGCNN.pdf  An End-to-End Deep Learning Architecture for Graph Classification<br>
+📝 Дополнительная информация в телеграм чате: @sberlogawithgraphs - присоединяйтесь<br>
+
+Зум: https://us02web.zoom.us/j/81647783013?pwd=cWNoWk0vSlR2bFdpTlhzSXJNY0RlQT09<br>
+
+Записи предыдущих докладов - https://www.youtube.com/c/SBERLOGA/videos<br>
+
 []()<br>
 []()<br>
 []()<br>
