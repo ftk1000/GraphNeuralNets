@@ -27,13 +27,28 @@ Aнвар Курмуков :   "GNN & GCN for complete beginners with examples i
 2. Graph SAGE https://arxiv.org/pdf/1706.02216.pdf<br>
 3. https://www.cse.wustl.edu/~ychen/public/DGCNN.pdf  An End-to-End Deep Learning Architecture for Graph Classification<br>
 📝 Дополнительная информация в телеграм чате: @sberlogawithgraphs - присоединяйтесь<br>
+* [Лекция (семинар) 8. Graph convolutions. GraphSAGE](https://www.youtube.com/watch?reload=9&v=w0Y8TEUArkI&feature=youtu.be)<br>
+* [Лекция (семинар) 9. Methods for graph classification.](https://www.youtube.com/watch?v=oTio7AjMCB8&feature=youtu.be)<br>
+* [Образцовый нотбук чтобы поиграться чтобы с Kipf GCN  - Graph Neural Network With Pytorch Geometric](https://www.kaggle.com/jameschapman19/openvaccine-gcn)<br>
+* [Замечательный доклад Константина Клепикова](https://www.youtube.com/watch?v=Hf7RYjxLemY)<br>
+* [https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/
+embeddings/graphsage-unsupervised-sampler-embeddings.ipynb](https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/
+embeddings/graphsage-unsupervised-sampler-embeddings.ipynb)<br>
+
+* [https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/
+node-classification/graphsage-node-classification.ipynb](https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/
+node-classification/graphsage-node-classification.ipynb)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 
 Зум: https://us02web.zoom.us/j/81647783013?pwd=cWNoWk0vSlR2bFdpTlhzSXJNY0RlQT09<br>
 
 Записи предыдущих докладов - https://www.youtube.com/c/SBERLOGA/videos<br>
 
-[]()<br>
-[]()<br>
+[О дифференцировании мах пулинга в нейронках](https://datascience.stackexchange.com/questions/11699/backprop-through-max-pooling-layers)<br>
+[YT: backpropagation algorithm for computing gradients (from CS231n 2017)](https://www.youtube.com/watch?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&t=1964&v=d14TUNcbn1k&feature=youtu.be)<br>
+![BackProp_4_max.JPG](BackProp_4_max.JPG)
 []()<br>
 []()<br>
 []()<br>
