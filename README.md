@@ -27,8 +27,8 @@ Aнвар Курмуков :   "GNN & GCN for complete beginners with examples i
 2. Graph SAGE https://arxiv.org/pdf/1706.02216.pdf<br>
 3. https://www.cse.wustl.edu/~ychen/public/DGCNN.pdf  An End-to-End Deep Learning Architecture for Graph Classification<br>
 📝 Дополнительная информация в телеграм чате: @sberlogawithgraphs - присоединяйтесь<br>
-* [Лекция (семинар) 8. Graph convolutions. GraphSAGE](https://www.youtube.com/watch?reload=9&v=w0Y8TEUArkI&feature=youtu.be)<br>
-* [Лекция (семинар) 9. Methods for graph classification.](https://www.youtube.com/watch?v=oTio7AjMCB8&feature=youtu.be)<br>
+* [Лекция (семинар) 8. Graph convolutions. GraphSAGE. Starts at 3:55](https://www.youtube.com/watch?reload=9&v=w0Y8TEUArkI&feature=youtu.be)<br>
+* [Лекция (семинар) 9. Methods for graph classification. Starts at 6:20](https://www.youtube.com/watch?v=oTio7AjMCB8&feature=youtu.be)<br>
 * [Образцовый нотбук чтобы поиграться чтобы с Kipf GCN  - Graph Neural Network With Pytorch Geometric](https://www.kaggle.com/jameschapman19/openvaccine-gcn)<br>
 * [Замечательный доклад Константина Клепикова](https://www.youtube.com/watch?v=Hf7RYjxLemY)<br>
 * [https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/
