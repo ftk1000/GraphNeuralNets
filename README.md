@@ -15,8 +15,13 @@
      -- [Serialization of RDF: Turtle,  https://www.w3.org/TR/turtle/](https://www.w3.org/TR/turtle/)<br>
      -- [Сериализаøии RDF: JSON-LD https://json-ld.org/spec/latest/json-ld/](https://json-ld.org/spec/latest/json-ld/)<br>
      -- []()<br>
+     -- []()<br>
+     -- []()<br>
  - [Lecture3](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture3.pdf)<br>
+     -- [https://www.dbpedia.org/](https://www.dbpedia.org/)<br>
      -- [https://dbpedia.org/ontology](https://dbpedia.org/ontology)<br>
+     -- [2015 YT: SPARQL in 11 min](https://www.youtube.com/watch?v=FvGndkpa4K0)<br>
+     -- []()<br>
      -- []()<br>
      -- []()<br>
      
