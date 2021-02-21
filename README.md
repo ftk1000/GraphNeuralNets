@@ -7,10 +7,28 @@
 #### [https://migalkin.github.io/kgcourse2021/](https://migalkin.github.io/kgcourse2021/)<br>
  - [Lecture1](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture1.pdf)<br>
      -- [https://asknow.sda.tech/](https://asknow.sda.tech/)<br>
+     -- [https://wikidata.metaphacts.com](https://wikidata.metaphacts.com)<br>
+ - [Lecture2](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture2.pdf)<br>
+     -- []()<br>
+     -- []()<br>
+     -- []()<br>
+ - [Lecture3](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture3.pdf)<br>
+     -- [https://dbpedia.org/ontology](https://dbpedia.org/ontology)<br>
+     -- []()<br>
+     -- []()<br>
      
-* [https://dbpedia.org/ontology](https://dbpedia.org/ontology)<br>
 * []()<br>
 * []()<br>
+
+
+
+
+
+
+
+
+
+
 
 # GraphNeuralNets 2020.10.22
 
