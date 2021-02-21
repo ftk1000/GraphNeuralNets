@@ -9,7 +9,10 @@
      -- [https://asknow.sda.tech/](https://asknow.sda.tech/)<br>
      -- [https://wikidata.metaphacts.com](https://wikidata.metaphacts.com)<br>
  - [Lecture2](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture2.pdf)<br>
-     -- []()<br>
+     -- p.7: $E\subset VxV$, p.10 I(Musician writes songs), ...<br>
+     -- RDF = Resource Description Frameowrk: <s,p,o> = subject-predicate-object<br>
+     -- RDF extenstions: RDFS, OWL, SPARQL<br>
+     -- [Serialization of RDF: Turtle,  https://www.w3.org/TR/turtle/](https://www.w3.org/TR/turtle/)<br>
      -- []()<br>
      -- []()<br>
  - [Lecture3](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture3.pdf)<br>
