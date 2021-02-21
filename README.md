@@ -20,7 +20,7 @@
  - [Lecture3](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture3.pdf)<br>
      -- [https://www.dbpedia.org/](https://www.dbpedia.org/)<br>
      -- [https://dbpedia.org/ontology](https://dbpedia.org/ontology)<br>
-     -- [2015 YT: SPARQL in 11 min](https://www.youtube.com/watch?v=FvGndkpa4K0)<br>
+     
      -- []()<br>
      -- []()<br>
      -- []()<br>
@@ -28,6 +28,16 @@
 * []()<br>
 * []()<br>
 
+### SPARQL = SpaRQL Protocol And RDF Query Language [http://www.learningsparql.com/](http://www.learningsparql.com/)<br>
+* [2015 YT: SPARQL in 11 min   https://www.youtube.com/watch?v=FvGndkpa4K0](https://www.youtube.com/watch?v=FvGndkpa4K0)<br>
+* <br>
+* [2018 YT: Querying Wikidata with SPARQL for Absolute Beginners https://www.youtube.com/watch?v=kJph4q0Im98](https://www.youtube.com/watch?v=kJph4q0Im98)<br>
+* [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)<br>
+* [https://query.wikidata.org/](https://query.wikidata.org/)<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
 
 
 
