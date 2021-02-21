@@ -25,7 +25,7 @@
      -- []()<br>
      -- []()<br>
      
-* []()<br>
+* [Chervov kaggle notes: singlecell-rnaseq-exposed-to-multiple-compounds](https://www.kaggle.com/alexandervc/singlecell-rnaseq-exposed-to-multiple-compounds/discussion/220461)<br>
 * []()<br>
 
 ### SPARQL = SpaRQL Protocol And RDF Query Language [http://www.learningsparql.com/](http://www.learningsparql.com/)<br>
