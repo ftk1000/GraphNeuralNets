@@ -3,10 +3,10 @@
 [2019: PRATEEK JOSHI: how-to-build-knowledge-graph-text-using-spacy](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)<br>
 [2019: PRATEEK JOSHI: graph-feature-extraction-deepwalk](https://www.analyticsvidhya.com/blog/2019/11/graph-feature-extraction-deepwalk/)<br>
 
-# [Mikhail Galkin: KG Course + more](https://migalkin.github.io/)<br>
+### [Mikhail Galkin: KG Course + more](https://migalkin.github.io/)<br>
 * [https://migalkin.github.io/kgcourse2021/](https://migalkin.github.io/kgcourse2021/)<br>
  - [Lecture1](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture1.pdf)<br>
- -- [https://asknow.sda.tech/](https://asknow.sda.tech/)<br>
+  - [https://asknow.sda.tech/](https://asknow.sda.tech/)<br>
 * [https://dbpedia.org/ontology](https://dbpedia.org/ontology)<br>
 * []()<br>
 * []()<br>
