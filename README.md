@@ -3,6 +3,9 @@
 [2019: PRATEEK JOSHI: how-to-build-knowledge-graph-text-using-spacy](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)<br>
 [2019: PRATEEK JOSHI: graph-feature-extraction-deepwalk](https://www.analyticsvidhya.com/blog/2019/11/graph-feature-extraction-deepwalk/)<br>
 
+
+* [2020, Inductive Relation Prediction by Subgraph Reasoning, Teru et al](https://arxiv.org/abs/1911.06962) [CODE: github.com/kkteru/grail](https://github.com/kkteru/grail)
+
 ## [Mikhail Galkin: KG Course + more](https://migalkin.github.io/)<br>
 #### [https://migalkin.github.io/kgcourse2021/](https://migalkin.github.io/kgcourse2021/)<br>
  - [Lecture1](https://migalkin.github.io/kgcourse2021/assets/slides/Lecture1.pdf)<br>
@@ -31,11 +34,15 @@
 ### SPARQL = SpaRQL Protocol And RDF Query Language [http://www.learningsparql.com/](http://www.learningsparql.com/)<br>
 * [2015 YT: SPARQL in 11 min   https://www.youtube.com/watch?v=FvGndkpa4K0](https://www.youtube.com/watch?v=FvGndkpa4K0)<br>
 * <br>
-* [2018 YT: Querying Wikidata with SPARQL for Absolute Beginners https://www.youtube.com/watch?v=kJph4q0Im98](https://www.youtube.com/watch?v=kJph4q0Im98)<br>
+* VERY USEFUL [2018 YT: Querying Wikidata with SPARQL for Absolute Beginners https://www.youtube.com/watch?v=kJph4q0Im98](https://www.youtube.com/watch?v=kJph4q0Im98)<br>
+* 
 * [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)<br>
 * [https://query.wikidata.org/](https://query.wikidata.org/)<br>
 * []()<br>
-* []()<br>
+
+### OWL = Web Onthology Language
+* [2019 YT: Being Cognitive: A simple tutorial on OWL Ontologies using Protege - Part 1](https://youtu.be/t-Q0l4LwM2M)<br>
+* [2019 YT: Being Cognitive: A simple tutorial on OWL Ontologies using Protege - Part 2](https://youtu.be/pWWPqpg5sKw)<br>
 * []()<br>
 * []()<br>
 
