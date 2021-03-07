@@ -1,3 +1,6 @@
+# Books
+* [Probabilistic Graphical Models: Principles and Applications, by Luis Enrique Sucar (Author)](https://www.amazon.com/Probabilistic-Graphical-Models-Applications-Recognition-dp-1447170547/dp/1447170547/ref=mt_other?_encoding=UTF8&me=&qid=1594379526)
+
 # Knowledge Graph 20
 
 [2019: PRATEEK JOSHI: how-to-build-knowledge-graph-text-using-spacy](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)<br>
